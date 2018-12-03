@@ -2,7 +2,7 @@
 
 $ brew install fzf
 
-LINK
+https://gist.github.com/BaseCase/c45299e4f8474119881d708a4b728fbf
 
 Put the file in /usr/local/bin
 Add alias -> alias fuz="/usr/local/bin/fuz.sh"
