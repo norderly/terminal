@@ -1,0 +1,8 @@
+# requirements
+
+$ brew install fzf
+
+LINK
+
+Put the file in /usr/local/bin
+Add alias -> alias fuz="/usr/local/bin/fuz.sh"
